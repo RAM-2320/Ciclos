@@ -3,4 +3,4 @@
 numero = int(input("Ingrese un numero entero: "))
 
 for o in range (numero, 1 + numero):
-  print(1)
+  print(o)
